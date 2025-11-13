@@ -51,6 +51,14 @@ Este repositorio presenta la solución de una prueba técnica realizada en clase
 
 ---
 
+## Capturas de Pantalla
+Visualiza algunos estados clave de la aplicacion ejecutandose en local:
+
+![Pantalla principal](img/Captura%20de%20pantalla%202025-11-12%20192141.png)
+![Vista del formulario](img/Captura%20de%20pantalla%202025-11-12%20192214.png)
+![Flujo de autenticacion](img/Captura%20de%20pantalla%202025-11-12%20213337.png)
+
+---
 ## Autoría  
 Este proyecto fue desarrollado como material educativo para estudiantes de BIT +. Si tienes preguntas o sugerencias, no dudes en contactarme.  
 
@@ -58,3 +66,5 @@ Este proyecto fue desarrollado como material educativo para estudiantes de BIT +
 - **GitHub:** [Fabolon](https://github.com/Fabolon)  
 
 ¡Explora los ejemplos y adapta las soluciones a tus propios proyectos!
+
+

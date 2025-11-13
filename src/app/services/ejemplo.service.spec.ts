@@ -1,6 +1,8 @@
+//Importaciones necesarias para las pruebas
 import { TestBed } from '@angular/core/testing';
 import { EjemploService } from './ejemplo.service';
 
+//grupo de pruebas para el servicio EjemploService
 describe('EjemploService', () => {
   let service: EjemploService;
 
